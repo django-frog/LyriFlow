@@ -1,0 +1,62 @@
+[
+  {
+    "id" : 1,
+    "title": "Fix You",
+    "artist": "Coldplay"
+  },
+  {
+    "id" : 2,
+    "title": "Imagine",
+    "artist": "John Lennon"
+  },
+  {
+    "id" : 3,
+    "title": "Bad Guy",
+    "artist": "Billie Eilish"
+  },
+  {
+    "id" : 4,
+    "title": "Die with a smile",
+    "artist": "Lady Gaga"
+  },
+  {
+    "id" : 5,
+    "title": "Fire on Fire",
+    "artist": "Sam smith"
+  },
+  {
+    "id" : 6,
+    "title": "How do you sleep",
+    "artist": "Sam smith"
+  },
+  {
+    "id" : 7,
+    "title": "Pray",
+    "artist": "Sam smith"
+  },
+  {
+    "id" : 8,
+    "title": "Not the only one",
+    "artist": "Sam smith"
+  },
+  {
+    "id" : 9,
+    "title": "Writing on the wall",
+    "artist": "Sam smith"
+  },
+  {
+    "id" : 10,
+    "title": "Diamonds",
+    "artist": "Rihanna"
+  },
+  {
+    "id" : 11,
+    "title": "Hello",
+    "artist": "Adele"
+  },
+  {
+    "id" : 12,
+    "title": "Easy",
+    "artist": "Adele"
+  }
+]
